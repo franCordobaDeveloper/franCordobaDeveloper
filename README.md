@@ -58,7 +58,7 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Conecta Conmigo</b>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/francisco-cordoba-javier" target="_blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn" height="40" width="45" /></a>
+<a href="https://www.linkedin.com/in/francisco-cordoba-javier" target="_blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn" height="40" width="45" target="_blank"/></a>
 &nbsp;&nbsp;
 <a href="mailto:fran.cordoba.developer@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="Gmail" width="40" /></a>
 </p>
